@@ -1,0 +1,18 @@
+idlj -fall Hello.idl
+
+javac *.java HelloApp/*.java
+
+orbd -ORBInitialPort 1050&
+
+java HelloServer -ORBInitialPort 1050 -ORBInitialHost localhost&
+
+java HelloClient -ORBInitialPort 1050 -ORBInitialHost localhost
+
+
+References:
+
+https://edux.pjwstk.edu.pl/mat/268/lec/lect12/lecture12.html
+
+https://objectcomputing.com/resources/publications/sett/january-2002-corba-and-java-by-don-busch-principal-software-engineer
+
+https://www.slideshare.net/PriyankaPatil41/corba-basic-and-deployment-of-corba

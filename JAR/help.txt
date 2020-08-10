@@ -1,0 +1,22 @@
+To create jar file:
+\> jar cfm Frame.jar Manifest.txt FrameDemo.class
+
+
+To run jar:
+\> java -jar Frame.jar
+
+List all files present in jar file:
+\> jar tf Frame.jar
+
+To add other folders :
+\> jar cvfm Frame.jar Manifest.txt FrameDemo.class img
+
+To add all class file :
+\> jar cvfm Frame.jar Manifest.txt *.class img
+
+
+To extract specific class from jar file:
+\> jar xf Frame.jar FrameDemo.class
+
+To extract jar file:
+\> jar xf Frame.jar

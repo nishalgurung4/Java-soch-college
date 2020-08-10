@@ -1,0 +1,29 @@
+#About java Beans
+https://www.j2eeonline.com/java-beans/module1/intro-to-javabeans.jsp
+
+#Difference between normal class and Java Bean "and" Advantages of Java Bean
+https://www.j2eeonline.com/java-beans/module2/intro-javabeans-development-kit.jsp
+
+#About manifest
+https://www.j2eeonline.com/java-beans/module3/javabeans-manifest-file.jsp
+
+#About jar utility
+https://www.j2eeonline.com/java-beans/module3/working-with-jar-files.jsp
+
+#Packaging beans in jar file
+https://www.j2eeonline.com/java-beans/module3/packaging-beans-jar-files.jsp
+
+#BDK is archived
+https://java.databasedevelop.com/article/11300073/Bdk+1.1+Download
+
+#Java Bean Box
+https://condor.depaul.edu/elliott/513/projects-archive/DS420Fall98/Paris/BeanBox.html
+
+#creating simple java bean
+http://info.ee.pw.edu.pl/Java/Tutorial/Current/javabeans/writingbean/index.html
+
+#installing BDK 
+https://youtu.be/WfG0x6Pj3fs
+
+#pdf to know more
+https://sdcse.engr.uconn.edu//Cse298300/javabeans2.pdf
